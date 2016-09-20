@@ -9,6 +9,7 @@ const Skills = () => {
 											<h2>QUÉ HAGO</h2>
 									</header>
 									<p>Me considero una apasionada del desarrollo web, tanto desktop como mobile, más enfocada a la parte Front-End y especializarme en JavaScript.</p>
+									<p>Algunas de las herramientas/tecnologías que ocupo son:</p>
 									<ul className="icons-grid">
 											<li>
 													<span className="icon major fa-html5"></span>
