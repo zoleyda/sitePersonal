@@ -1312,8 +1312,7 @@
 		background-attachment: fixed,						fixed;
 		background-image:url("../style/images/bg-zz.png");
 		background-position: top left,					center center;
-		background-repeat: repeat,						none;
-		background-size: auto,						cover;
+		background-size: 100%;
 	}
 
 	html.is-loading body *, html.is-loading body *:before, html.is-loading body *:after {
